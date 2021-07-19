@@ -11,7 +11,7 @@ Here is a screenshot of it :
 
 <img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/MATE.png" width=70% height=70% />
 
-*in the image : MATE desktop with urxvt and apple-music-electron opened.*
+*in the image : MATE desktop with `urxvt` and `apple-music-electron` opened.*
 
 ## Every config location
 
