@@ -5,7 +5,7 @@ This repo contains the configuration for my i3wm setup.
 <img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/config.png" width=70% height=70% />
 
 ## NOTE :
-I have switched to default KDE, with Devuan.
+I have switched to default KDE.
 Here is a screenshot of it :
 
 <img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/KDE.png" width=70% height=70% />
