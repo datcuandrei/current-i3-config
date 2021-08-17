@@ -5,12 +5,10 @@ This repo contains the configuration for my i3wm setup.
 <img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/config.png" width=70% height=70% />
 
 ## NOTE :
-I have switched to default KDE.
+I have switched to default GNOME.
 Here is a screenshot of it :
 
-<img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/KDE.png" width=70% height=70% />
-
-*in the image : MATE desktop with `urxvt` and `apple-music-electron` opened.*
+<img src="https://raw.githubusercontent.com/datcuandrei/i3wm-config/main/gnome.png" width=70% height=70% />
 
 ## Every config location
 
